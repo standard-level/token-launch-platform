@@ -1,5 +1,5 @@
 module.exports = {
-    // 5 M b 12
+    // 5 M EB 12
     // 0 7
     base: {
         name: 'Sniper Bot',
